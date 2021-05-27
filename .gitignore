@@ -8,3 +8,4 @@ scapy/VERSION
 test/*.html
 .tox
 doc/scapy/_build
+root_key
